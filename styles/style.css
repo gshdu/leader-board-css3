@@ -311,6 +311,7 @@ main {
     .navbar-mobile {
         flex-direction: row-reverse;
         align-items: center;
+        justify-content: space-evenly;
     }
 
     main {
